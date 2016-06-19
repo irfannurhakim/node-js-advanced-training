@@ -12,9 +12,9 @@ Link: https://nodejs.org/en/download/releases/
 
 Link: https://nodejs.org/en/download/package-manager/
 
-## Node.js Versions Control (NVM)
+## Node.js Versions Management (n)
 
-Link: https://github.com/creationix/nvm/blob/master/README.markdown
+Link: https://github.com/tj/n
 
 ## CLI commands
 
