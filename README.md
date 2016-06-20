@@ -14,7 +14,7 @@
  - **Node.js 4.2+**
 
 
-## Program (total: 4h)
+## Program (total: 4.5h)
 
 
 ### `Training Overview` (10m)
