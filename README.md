@@ -2,18 +2,20 @@
 
 ## Required
  - [JavaScript Base](requirements/javascript-base.md)
+ - git
  - ECMAScript 2016 (ES6)
+ - CLI
 
 ## Actual for versions:
  - **Node.js 4.2+**
 
-## Program (total: 3h)
+## Program (total: 4h)
 
-### `Training Overview` (15m)
+### `Training Overview` (5m)
 
 ### `JavaScript`
 
-#### [JavaScript Init Check Point](https://docs.google.com/presentation/d/1My6RpHXvAHyc1BCx5bEJhw_FmCyxBKgy5PKhjezjHCQ/edit?usp=sharing) (2h)
+#### [JavaScript Init Check Point](https://docs.google.com/presentation/d/1My6RpHXvAHyc1BCx5bEJhw_FmCyxBKgy5PKhjezjHCQ/edit?usp=sharing) (60m)
 
  - **Variables**
  - **Conditions**
@@ -22,34 +24,6 @@
  - **Prototypes**
  - **Asynchronous functions** 
  - ...
-
-#### [New in ECMAScript 2015 (ES6)](lessons/02-js-ecmascript-2015/materials.md) (2h) [[Homework]](lessons/02-js-ecmascript-2015/homework.md)
-
- - **Block scoping**
-   - let
-   - const
- - **Collections**
-   - Map
-   - WeakMap
-   - Set
-   - WeakSet
- - **Classes**
- - **Generators**
- - **Promises**
- - **Symbols**
- - **Template strings**
- - **Arrow Functions**
- - ...
-
-#### [JavaScript Style Guides](lessons/03-js-style-guides/materials.md) (15m)
-
- - **Airbnb Coding Style**
- - **Google JavaScript Style**
- - **JavaScript "Standard" Style**
- - **Crockfords’s Coding Standards**
- - **Node.js Coding Style**
- - **NPM "Funny" Coding Style**
- - **Idiomatic JavaScript Coding Style**
 
 ### `Node.js`
 
@@ -60,7 +34,8 @@
  - **Small surface area**
  - **Simplicity and pragmatism**
 
-#### [Design Fundamentals](lessons/05-nodejs-design-fundamentals/materials.md) (1h)
+
+#### [Design Fundamentals](lessons/05-nodejs-design-fundamentals/materials.md) (30m)
 
  - **Conceptions**
    - **Asynchronous**
@@ -73,25 +48,16 @@
    - **libuv**
    - ...
 
-#### [Getting started](lessons/06-nodejs-getting-started/materials.md) (15m)
+
+#### [Getting started](lessons/06-nodejs-getting-started/materials.md) (30m)
 
  - **Versions of Node.js**
  - **Installation Node.js**
  - **CLI commands**
  - **First scripts**
 
-#### [Errors Examples](lessons/07-nodejs-errors-examples/materials.md) (15m)
 
- - **System errors**
- - **Standard JavaScript errors**
-   - **SyntaxError**
-   - **ReferenceError**
-   - **TypeError**
-   
- - **Assertion Errors**
- - **Custom errors**
-
-#### [Modules and NPM](lessons/08-nodejs-modules-and-npm/materials.md) (1h) [[Homework]](lessons/08-nodejs-modules-and-npm/homework.md)
+#### [Modules and NPM](lessons/08-nodejs-modules-and-npm/materials.md) (30m) [[Homework]](lessons/08-nodejs-modules-and-npm/homework.md)
 
  - **How it works?**
  - **Supported formats**
@@ -99,7 +65,8 @@
  - **The module cache**
  - **NPM registry**
 
-#### [Core modules](lessons/09-nodejs-core-modules/materials.md) (2h)
+
+#### [Core modules](lessons/09-nodejs-core-modules/materials.md) (30m)
 
  - **Console**
  - **Process**
@@ -113,7 +80,8 @@
  - **Child Processes**
  - ...
 
-#### Useful NPM modules (1h)
+
+#### Useful NPM modules (5m) 
 
  - **Lodash**
  - **Async / Neo-async**
@@ -123,16 +91,7 @@
  - **Postgres**
  - ...
 
-#### Build your own modules (1h)
-
- - **File structure**
- - **Deep with package.json**
- - **Local packages**
- - **Publish to NPM Registry**
- - **Using in application**
- - ...
- 
-#### Common Patterns in Node.js (1h)
+#### Common Patterns in Node.js (30m)
 
  - **Callbacks**
  - **Error-first**
@@ -140,28 +99,8 @@
  - **Recursive async functions**
  - ...
 
-#### Design Patterns in Node.js (4h)
-
- - **Creational Design Patterns**
-   - Singleton
-   - Factory
-   - Abstract Factory
-   - ...
    
- - **Structural Design Patterns**
-   - Adapter
-   - Composite
-   - Decorator
-   - Facade
-   - Bridge
-   - Proxy
-   - ...
- 
- - **Behavioral Design Patterns**
-   - Observer
-   - ...
-   
-#### Asynchronous Control Flow (2h)
+#### Asynchronous Control Flow (30m)
 
  - **The difficulties**
    - The callback hell
@@ -178,146 +117,32 @@
    - Promises
    - Generators
 
-#### Wiring modules (1h)
 
- - **Hardcoded dependency**
- - **Dependency injection**
- - **Service locator**
- - **Dependency injection container**
-
-#### Recipes for yours applications (2h)
-
- - **Run long sync operations**
- - **Run heavy CPU operations**
- - **Connection to MongoDB**
- - **Repository pattern**
- - ...
-
-#### Testing in Node.js (3h)
-
- - **What we test?**
-   - Cases
-   - Priority
- - **How to do your testing most effective and fast?**
-   - Classes
-   - Boundary
-   - Test levels
-   - Piramida
- - **Approaches**
-   - TDD
-   - BDD 
-   - Pairwise
-   - Mocks
- - **Tools and libraries**
-   - Mocha
-   - Should
-   - Supertest
-   - Sinon
- - **Code Coverage**
- - **Patterns and best practices in testing**
- - **Continuous Integration**
-   - Conception
-   - Travis CI
- - **Continuous Delivery**
-   - Conception
-
-#### Documentation (1h)
-
- - **Approaches**
-   - README Driven Development
-   - Reference documentation
-   - Unibutique Language
-   - Changelog
-   - License
-
- - **Formats**
-   - Markdown
-   - RAML
-
-#### The design and architecture of the application (1h)
-
- - **MVC**
- - **DDD**
- - **SOA**
- - **Micro-services**
- - ...
- 
-#### Projects: Common recommendations (1h)
-
- - **12 factors app**
- - **Configuration**
- - **Logging**
- - **Monitoring**
- - **Profiling**
- - **Connection to DBs and external services**
- - ...
-
-#### Project 1: Simple web-site
+#### Project 1: Simple web-site (30m)
 
  - **Express**
  - **Serving static content by Node.js**
- - **Using Nginx as reverse proxy and server of static content**
 
-#### Project 2: Service with REST API
+
+#### Project 2: Service with REST API (30m)
 
  - **Express**
  - **REST API design**
  - **REST API testing**
 
-#### Project 3: Tiny cloud (micro-services)
 
- - **Micro-services overview**
- - **Communication between services**
- - **HTTP and Message Broker for communication**
- - **Testing of micro-services**
-
-#### Performance and Scaling of application and system (2h)
-
- - **Scaling**
-   - What is scaling?
-   - Scaling Law of applications
-   - Methods of scaling applications
-
- - **Performance**
-   - What is performance? 
-   - What should we measure?
-   - Tools for performance tests (Yandex.Tank, ab, siege)
-   - Analysis of the results
-   - Recommendations for scaling
- 
- - **Cache in applications**
-
-#### Profiling and optimizations of application and system (2h)
-
- - **Top most common mistakes which fail performance**
- 
- - **Profiling**
-   - Memory
-   - CPU
-   - Blocking of EventLoop
- 
- - **Tools**
-
-#### Yours applications in production (1h)
-
- - **Best practices of logging**
- - **Orchestration (Ansible)**
- - ...
-
-#### Distribution of your application (Docker) (1h)
-
- - **What is Docker?**
- - **Create Docker image with your application**
- - **Run your applications**
- - **How to run own cloud in 1 click? (Docker Compose)**
- - ...
-
-#### Final Q&A (1h)
+#### Final Q&A (15m)
 
 
 # Author
 
  - [**Andrii Chyzh**](https://github.com/andriichyzh)
+
+
+# Contributor
+
+ - [**Irfan A Nurhakim**](https://github.com/irfannurhakim)
+
 
 # License
 
