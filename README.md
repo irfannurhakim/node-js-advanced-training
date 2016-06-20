@@ -1,24 +1,13 @@
-
-![Node.js](static/images/logo.png)
-
-# Node.js Advanced Training [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/andriichyzh/node-js-advanced-training?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Node.js Introduction Training
 
 ## Required
-
  - [JavaScript Base](requirements/javascript-base.md)
- - [JavaScript Advanced](requirements/javascript-advanced.md)
- - [MongoDB Base](requirements/mongodb-base.md)
- - [Redis Base](requirements/redis-base.md)
- - [Linux Base](requirements/linux-base.md)
- 
+ - ECMAScript 2016 (ES6)
 
 ## Actual for versions:
  - **Node.js 4.2+**
- - **Mongo 3.2+**
- - **Redis 3.0+**
 
-
-## Program (total: 30h)
+## Program (total: 3h)
 
 ### `Training Overview` (15m)
 
@@ -61,7 +50,6 @@
  - **Node.js Coding Style**
  - **NPM "Funny" Coding Style**
  - **Idiomatic JavaScript Coding Style**
-
 
 ### `Node.js`
 
