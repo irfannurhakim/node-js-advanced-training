@@ -11,11 +11,11 @@
 
 ## Program (total: 4h)
 
-### `Training Overview` (5m)
+### `Training Overview` (10m)
 
 ### `JavaScript`
 
-#### [JavaScript Init Check Point](https://docs.google.com/presentation/d/1My6RpHXvAHyc1BCx5bEJhw_FmCyxBKgy5PKhjezjHCQ/edit?usp=sharing) (60m)
+#### [JavaScript Init Check Point](https://docs.google.com/presentation/d/1My6RpHXvAHyc1BCx5bEJhw_FmCyxBKgy5PKhjezjHCQ/edit?usp=sharing) (50m)
 
  - **Variables**
  - **Conditions**
@@ -57,7 +57,7 @@
  - **First scripts**
 
 
-#### [Modules and NPM](lessons/08-nodejs-modules-and-npm/materials.md) (30m) [[Homework]](lessons/08-nodejs-modules-and-npm/homework.md)
+#### [Modules and NPM](lessons/08-nodejs-modules-and-npm/materials.md) (30m)
 
  - **How it works?**
  - **Supported formats**
@@ -81,7 +81,7 @@
  - ...
 
 
-#### Useful NPM modules (5m) 
+#### [Useful NPM modules](lessons/10-nodejs-useful-npm-modules) (15m) 
 
  - **Lodash**
  - **Async / Neo-async**
@@ -90,33 +90,6 @@
  - **Redis**
  - **Postgres**
  - ...
-
-#### Common Patterns in Node.js (30m)
-
- - **Callbacks**
- - **Error-first**
- - **Async function in any case**
- - **Recursive async functions**
- - ...
-
-   
-#### Asynchronous Control Flow (30m)
-
- - **The difficulties**
-   - The callback hell
-   - Specific flows
-
- - **Flows**
-   - Sequential execution
-   - Parallel execution
-   - Limited parallel execution
-
- - **Solutions**
-   - Pure JS functions
-   - Async library
-   - Promises
-   - Generators
-
 
 #### Project 1: Simple web-site (30m)
 
