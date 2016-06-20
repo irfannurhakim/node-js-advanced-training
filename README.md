@@ -15,7 +15,7 @@
 
 ### `JavaScript`
 
-#### [JavaScript Init Check Point](https://docs.google.com/presentation/d/1My6RpHXvAHyc1BCx5bEJhw_FmCyxBKgy5PKhjezjHCQ/edit?usp=sharing) (50m)
+#### [JavaScript Init Check Point](https://www.dropbox.com/s/5yhr1a1w4e3zwmc/Node.js%20Intro%20Training%20-%2001%20-%20JavaScript%20Init%20Check%20Point.pptx?dl=0) (50m)
 
  - **Variables**
  - **Conditions**
