@@ -1,19 +1,27 @@
 # Node.js Introduction Training
 
+
 ## Required
+
  - [JavaScript Base](requirements/javascript-base.md)
  - git
  - ECMAScript 2016 (ES6)
  - CLI
 
+
 ## Actual for versions:
+
  - **Node.js 4.2+**
+
 
 ## Program (total: 4h)
 
+
 ### `Training Overview` (10m)
 
+
 ### `JavaScript`
+
 
 #### [JavaScript Init Check Point](https://www.dropbox.com/s/5yhr1a1w4e3zwmc/Node.js%20Intro%20Training%20-%2001%20-%20JavaScript%20Init%20Check%20Point.pptx?dl=0) (50m)
 
@@ -25,7 +33,9 @@
  - **Asynchronous functions** 
  - ...
 
+
 ### `Node.js`
+
 
 #### [Philosophy](lessons/04-nodejs-philosophy/materials.md) (15m)
 
@@ -91,6 +101,7 @@
  - **Postgres**
  - ...
 
+
 #### Project 1: Simple web-site (30m)
 
  - **Express**
@@ -101,7 +112,6 @@
 
  - **Express**
  - **REST API design**
- - **REST API testing**
 
 
 #### Final Q&A (15m)
