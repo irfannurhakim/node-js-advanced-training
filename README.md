@@ -4,8 +4,8 @@
 ## Required
 
  - [JavaScript Base](requirements/javascript-base.md)
- - git
  - ECMAScript 2016 (ES6)
+ - git & github
  - CLI
 
 

@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "576778a4bc69def6500bd38d",
+    "index": 0,
+    "guid": "3be357a5-1cac-4b62-be10-3d1329a405cf",
+    "isActive": true,
+    "balance": "$3,079.21",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "blue",
+    "name": "Ebony Acosta",
+    "gender": "female",
+    "company": "GYNK",
+    "email": "ebonyacosta@gynk.com",
+    "phone": "+1 (801) 561-3483",
+    "address": "698 Desmond Court, Stouchsburg, Virginia, 2119",
+    "about": "Consectetur non adipisicing adipisicing dolor proident ea. Aute ad nulla excepteur fugiat reprehenderit ipsum sint excepteur reprehenderit quis. Duis veniam minim ipsum do fugiat laboris id Lorem aliquip ullamco sint laboris.\r\n",
+    "registered": "2016-06-15T12:27:55 -07:00",
+    "latitude": -42.154475,
+    "longitude": 31.778588,
+    "tags": [
+      "non",
+      "in",
+      "anim",
+      "magna",
+      "consectetur",
+      "mollit",
+      "nisi"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Robert Rowland"
+      },
+      {
+        "id": 1,
+        "name": "Bertie Thomas"
+      },
+      {
+        "id": 2,
+        "name": "Ericka Pollard"
+      }
+    ],
+    "greeting": "Hello, Ebony Acosta! You have 2 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "576778a410cac16fb13e34d0",
+    "index": 1,
+    "guid": "c67259fa-87a2-44be-b9ee-5eda55604f90",
+    "isActive": true,
+    "balance": "$2,942.41",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "brown",
+    "name": "Vivian Lawson",
+    "gender": "female",
+    "company": "COMTRACT",
+    "email": "vivianlawson@comtract.com",
+    "phone": "+1 (866) 548-3316",
+    "address": "658 King Street, Gerber, Federated States Of Micronesia, 4938",
+    "about": "Quis nulla minim deserunt incididunt nisi duis cillum do Lorem mollit aliquip non consectetur aliquip. In eiusmod quis enim nulla duis do laboris sunt sit ex est. Pariatur tempor aliquip labore eu amet ut mollit magna mollit. Id ex eu voluptate occaecat.\r\n",
+    "registered": "2014-06-22T07:46:40 -07:00",
+    "latitude": -69.576526,
+    "longitude": -90.460507,
+    "tags": [
+      "laborum",
+      "commodo",
+      "velit",
+      "et",
+      "sint",
+      "dolor",
+      "esse"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Henry Ruiz"
+      },
+      {
+        "id": 1,
+        "name": "Hogan Oneil"
+      },
+      {
+        "id": 2,
+        "name": "Rosalind Hardy"
+      }
+    ],
+    "greeting": "Hello, Vivian Lawson! You have 7 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "576778a4df8ceadce137565b",
+    "index": 2,
+    "guid": "c366a3fb-7c50-49c4-b703-ec93b9733e7f",
+    "isActive": true,
+    "balance": "$2,496.38",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "blue",
+    "name": "Kathie Carson",
+    "gender": "female",
+    "company": "XIXAN",
+    "email": "kathiecarson@xixan.com",
+    "phone": "+1 (811) 422-2290",
+    "address": "575 Jaffray Street, Wyano, Massachusetts, 5508",
+    "about": "Non est laboris consectetur duis ipsum elit minim. Cillum ut cupidatat esse eiusmod ad officia dolore laboris et. Nisi magna veniam laboris Lorem tempor enim ut magna dolor cillum.\r\n",
+    "registered": "2016-04-29T06:05:02 -07:00",
+    "latitude": 39.332237,
+    "longitude": 84.265396,
+    "tags": [
+      "eu",
+      "consectetur",
+      "aute",
+      "ex",
+      "ad",
+      "incididunt",
+      "proident"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bird Cortez"
+      },
+      {
+        "id": 1,
+        "name": "Russell Lowery"
+      },
+      {
+        "id": 2,
+        "name": "Moody Page"
+      }
+    ],
+    "greeting": "Hello, Kathie Carson! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "576778a4c444da81b64a96dd",
+    "index": 3,
+    "guid": "35226f21-5138-4e13-b3a8-25af41b9681e",
+    "isActive": false,
+    "balance": "$3,631.31",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Loretta Obrien",
+    "gender": "female",
+    "company": "VELITY",
+    "email": "lorettaobrien@velity.com",
+    "phone": "+1 (868) 441-3816",
+    "address": "951 Sandford Street, Oberlin, Marshall Islands, 6346",
+    "about": "Duis nostrud aliquip sit exercitation dolor cillum eiusmod ut laboris veniam. Dolor amet commodo cupidatat mollit anim amet. Laboris duis occaecat duis tempor.\r\n",
+    "registered": "2016-02-19T12:39:08 -07:00",
+    "latitude": -33.50361,
+    "longitude": -43.217514,
+    "tags": [
+      "velit",
+      "aliquip",
+      "fugiat",
+      "eu",
+      "enim",
+      "duis",
+      "irure"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cohen Allison"
+      },
+      {
+        "id": 1,
+        "name": "Sharlene Figueroa"
+      },
+      {
+        "id": 2,
+        "name": "Cornelia Santos"
+      }
+    ],
+    "greeting": "Hello, Loretta Obrien! You have 6 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "576778a418d4f0d1036d3958",
+    "index": 4,
+    "guid": "9a1b71df-4679-481d-8070-88cbe9ecd862",
+    "isActive": true,
+    "balance": "$1,251.25",
+    "picture": "http://placehold.it/32x32",
+    "age": 21,
+    "eyeColor": "brown",
+    "name": "Nicholson Fisher",
+    "gender": "male",
+    "company": "ZYTREK",
+    "email": "nicholsonfisher@zytrek.com",
+    "phone": "+1 (941) 583-2120",
+    "address": "572 Kingsland Avenue, Glendale, Delaware, 7394",
+    "about": "Officia eiusmod veniam minim sint elit reprehenderit aliqua exercitation laborum do mollit. Officia officia nisi excepteur non nostrud aliqua cupidatat et officia occaecat amet minim adipisicing. Lorem mollit ut dolor aliquip elit elit sint nulla irure. Laborum exercitation incididunt incididunt ipsum ex in dolor amet pariatur id est consectetur eiusmod enim. Officia officia ut tempor nostrud aliqua ea.\r\n",
+    "registered": "2014-08-10T07:26:21 -07:00",
+    "latitude": 25.290362,
+    "longitude": -158.395902,
+    "tags": [
+      "dolor",
+      "aute",
+      "voluptate",
+      "elit",
+      "Lorem",
+      "enim",
+      "labore"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Melisa Myers"
+      },
+      {
+        "id": 1,
+        "name": "Murphy Bean"
+      },
+      {
+        "id": 2,
+        "name": "Dorsey Brady"
+      }
+    ],
+    "greeting": "Hello, Nicholson Fisher! You have 2 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
